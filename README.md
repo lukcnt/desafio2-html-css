@@ -1,6 +1,6 @@
 # Desafio HTML e CSS
 
-Repositório criado para a entrega do segundo desafio de HTML e CSS do Bootcamp C# da TI Academy, a entrega consiste em uma página com um menu com três botões clicáveis, sendo eles: clientes, produtos e pedidos.
+Repositório criado para a entrega do segundo desafio de HTML e CSS do Bootcamp C# da TI Academy, a entrega consiste em uma página de um painel com um menu com três botões clicáveis, sendo eles: clientes, produtos e pedidos.
 
 ## GitHub Pages
 
